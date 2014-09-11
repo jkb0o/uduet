@@ -1,0 +1,4 @@
+.nuget
+packages
+watchdog/bin
+watchdog/obj

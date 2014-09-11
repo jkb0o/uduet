@@ -1,0 +1,8 @@
+Assets/Plugins/UDuet/Editor/Bin/watchdog.exe*
+Library
+obj
+Temp
+*.csproj
+*.sln
+*.pidb
+*.unityproj
